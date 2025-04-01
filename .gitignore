@@ -1,0 +1,17 @@
+# Build output files
+Objects/
+Listings/
+
+# IDE user-specific files
+*.uvgui.*
+*.uvopt
+
+# Logs
+*.build_log.htm
+*.lnp
+
+# Object files
+*.obj
+
+# Output binaries
+*.hex
